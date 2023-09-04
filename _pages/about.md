@@ -18,10 +18,6 @@ Contact: sunnweiwei@gmail.com
 - **Shandong University**, China. MSc, Computer Science. Sep 2021 – Jul 2024
 - **Shandong University**, China. BSc, Computer Science. Sep 2017 – Jul 2021
 
-## Intern Experience
-
-- **Baidu Inc.**  Research Intern with [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
-- **JD.com** Research Intern with [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
 
 
 ## Publications
@@ -47,6 +43,11 @@ Contact: sunnweiwei@gmail.com
 - **Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems.** **Weiwei Sun**, Shuo Zhang, Krisztian Balog, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Maarten de Rijke. In SIGIR 2021. [Paper](https://arxiv.org/abs/2105.03748), [Code](https://github.com/sunnweiwei/user-satisfaction-simulation)
 
 - **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation** Chuan Meng, Pengjie Ren, Zhumin Chen, **Weiwei Sun**, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. In SIGIR 2020. [Paper](https://ir.sdu.edu.cn/~zhaochunren/papers/meng-2020-dukenet.pdf), [Code](https://github.com/ChuanMeng/DukeNet)
+
+## Work Experience
+
+- **Baidu Inc.**  Research Intern with [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
+- **JD.com** Research Intern with [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
 
 
 ## Academic Services
