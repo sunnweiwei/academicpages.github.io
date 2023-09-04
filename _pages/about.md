@@ -1,18 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Weiwei Sun
-
-I am a second-year MSc student at Shandong University, supervised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
-
-[Twitter](https://twitter.com/sunweiwei12), [Google Scholar](https://scholar.google.com/citations?user=hdUZbxgAAAAJ&hl=en), [Github](https://github.com/sunnweiwei), [Linkin](https://www.linkedin.com/in/sunweiwei)
+I am currently a final-year MSc student at Shandong University, advised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
 
 Contact: sunnweiwei@gmail.com
 
@@ -22,10 +18,10 @@ Contact: sunnweiwei@gmail.com
 - **Shandong University**, China. MSc, Computer Science. Sep 2021 – Jul 2024
 - **Shandong University**, China. BSc, Computer Science. Sep 2017 – Jul 2021
 
-## Working Experience
+## Intern Experience
 
-- **Baidu Inc.**  Research Internship, Search Science Team. Mentor: [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
-- **JD.com** Research Internship, Data Science Lab. Mentor: [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
+- **Baidu Inc.**  Research Intern with [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
+- **JD.com** Research Intern with [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
 
 
 ## Publications
