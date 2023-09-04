@@ -19,7 +19,6 @@ Contact: sunnweiwei@gmail.com
 - **Shandong University**, China. BSc, Computer Science. Sep 2017 – Jul 2021
 
 
-
 ## Publications
 
 - **Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.** **Weiwei Sun**, Lingyong Yan, Xinyu Ma, Pengjie Ren, Dawei Yin, Zhaochun Ren. Preprint at arXiv:2304.09542. [Paper](https://arxiv.org/abs/2304.09542), [Code](https://github.com/sunnweiwei/RankGPT)
@@ -46,8 +45,9 @@ Contact: sunnweiwei@gmail.com
 
 ## Work Experience
 
-- **Baidu Inc.**  Research Intern with [Lingyong Yan](https://yanlingyong.top/) and [Xinyu Ma](https://albert-ma.github.io/). Sep 2022 – Present.
-- **JD.com** Research Intern with [Hongshen Chen](https://www.chenhongshen.com/) and [Hengyi Cai](https://www.caihengyi.com/). Mar 2021 – Sep 2021.
+- **Research Intern.** Search Science Team, Baidu Inc. Sep 2022 – Present.
+- **Research Intern.** Data Science Lab, JD.com. Mar 2021 – Sep 2021.
+- **Research Assistant.** Information Retrieval Lab, Shandong University. Sep 2019 – June 2021.
 
 
 ## Academic Services
