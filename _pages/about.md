@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Weiwei Sun
 
 I am a second-year MSc student at Shandong University, supervised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en).
