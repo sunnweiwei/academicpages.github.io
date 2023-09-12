@@ -75,4 +75,4 @@ Chuan Meng, Pengjie Ren, Zhumin Chen, **Weiwei Sun**, Zhaochun Ren, Zhaopeng Tu,
 ## Academic Services
 PC Member of EMNLP-22, ACL-23, SIGIR-23, ECML/PKDD-23, IPM-23, WSDM-23, EMNLP-23
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=X1-ZZUo9BlZ-KAnml1NpOjjAa8XUqOYISlpziPgqUC8"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=X1-ZZUo9BlZ-KAnml1NpOjjAa8XUqOYISlpziPgqUC8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
