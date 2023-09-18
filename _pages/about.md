@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently a MSc student at Shandong University, advised by Prof. [Zhaochun Ren](https://scholar.google.com/citations?user=fPcIPt0AAAAJ&hl=en). Before that, I received the BSc from Shandong University in 2021. My research is focused on large language models, generative retrieval, and conversational AI.
 
-Contact: sunnweiwei@gmail.com
-Google Scholar: https://scholar.google.com/citations?user=hdUZbxgAAAAJ&hl=en
-Github: https://github.com/sunnweiwei
+- Contact: sunnweiwei@gmail.com
+- Google Scholar: https://scholar.google.com/citations?user=hdUZbxgAAAAJ&hl=en
+- Github: https://github.com/sunnweiwei
 
 ## Education
 
