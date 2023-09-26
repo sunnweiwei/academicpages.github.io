@@ -14,7 +14,7 @@ Contact: sunnweiwei@gmail.com
 
 ## Education
 
-- **MSc, Shandong University** Computer Science. 2021 - 2024
+- **MSc, Shandong University** Computer Science. 2021 - 2023
 - **BSc, Shandong University** Computer Science. 2017 - 2021
 
 
